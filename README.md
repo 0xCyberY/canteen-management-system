@@ -1,0 +1,2 @@
+# canteen-management-system
+The main objective of this project is to manage the details of canteen Employee ,Item, Stock and Sales . It manages all the information about the canteen customer and sales The object is totally built at administration end and thus only the administrator is guaranteed the access . The purpose of the project to build an application program to reduce the manual work for managing the Canteen , Employee, Customer and Items . It tracks all the details about the items , stock and sales
